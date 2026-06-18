@@ -1,7 +1,7 @@
 # GitHub Table Assignment
 
-| Name | Age | City |
-|------|-----|------|
-| John | 25 | New York |
-| Alice | 30 | Los Angeles |
-| Bob | 35 | Chicago |
+| Name  | Age | City        |
+|:------|:---:|:------------|
+| John  | 25  | New York    |
+| Alice | 30  | Los Angeles |
+| Bob   | 35  | Chicago     |
